@@ -1,9 +1,9 @@
 # BayAreaHacks
 
-##SafeCheckr
+## SafeCheckr
 Description
 
-###Objective
+### Objective
 To provide a platform for users to ask questions about, and summarize contracts they might not otherwise understand.
 
 
